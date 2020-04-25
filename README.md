@@ -16,29 +16,29 @@ After Time to Compelte Analysis:
  * can be easily edited to use a lookup list or dictonary whenever the data becomes larger.
 
 
-![Overview](overview.png)
+![Logic 1](Logic1.png)
 
 2.1 Create Lists and Loops for Clip and Buffer
   * One example of lists and loops used in the script
   * Double for loop to clip each feature to each countya nd rename with clip + int
   
-![Overview](overview.png)
+![Logic 2.1](Logic21.1.png)
 
 2.2 Setting up Features for Network Analyst Function
   * Clipping hospitals, roads, and abulance dispatch points for a specfic county layer 
   
-![Overview](overview.png)
+![Logic 2.2](Logic22.png)
   
 3. Building and solving Network
  * 1 manual stpe of creating the road network a short coming of ArcGIS 
  * Created service areas based on 2000 meter increments
  * Created Closet Hospital routes using length 
 
-![Overview](overview.png)
+![Logic 3](Logic3.png)
  
 ### Results
 
-1. ![Overview](overview.png)
-2. ![Overview](overview.png)
-3. ![Overview](overview.png)
+1. ![Results 1](results1.png)
+2. ![Results 2](results2.png)
+3. ![Results 3](results3.png)
 
