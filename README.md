@@ -15,23 +15,30 @@ After Time to Compelte Analysis:
 1. Using select_analysis in arcpy utilizing SQL within the python script to extract counties and specific attributes. 
  * can be easily edited to use a lookup list or dictonary whenever the data becomes larger.
 
+
+![Overview](overview.png)
+
 2.1 Create Lists and Loops for Clip and Buffer
   * One example of lists and loops used in the script
   * Double for loop to clip each feature to each countya nd rename with clip + int
+  
+![Overview](overview.png)
 
 2.2 Setting up Features for Network Analyst Function
   * Clipping hospitals, roads, and abulance dispatch points for a specfic county layer 
   
+![Overview](overview.png)
   
 3. Building and solving Network
  * 1 manual stpe of creating the road network a short coming of ArcGIS 
  * Created service areas based on 2000 meter increments
  * Created Closet Hospital routes using length 
- 
+
+![Overview](overview.png)
  
 ### Results
 
-1. 
-2.
-3. 
+1. ![Overview](overview.png)
+2. ![Overview](overview.png)
+3. ![Overview](overview.png)
 
