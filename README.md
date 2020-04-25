@@ -38,7 +38,7 @@ After Time to Compelte Analysis:
  
 ### Results
 
-1. ![Results 1](results1.png)
-2. ![Results 2](results2.png)
+1. ![Results 1](result1.png)
+2. ![Results 2](result2.png)
 3. ![Results 3](results3.png)
 
