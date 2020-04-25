@@ -1,4 +1,4 @@
-# automate-gis
+# automate_gis_python
 ### Goal:
 * Automating repetivte workflow tasks as my time as a GIS Data Analyst. 
   * Apply Buffers and clips ot data as it comes in 
